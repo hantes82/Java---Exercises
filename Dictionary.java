@@ -10,8 +10,7 @@ public class Dictionary {
 		// TODO Auto-generated method stub
 		HashMap<String, String> myMap = new HashMap <String, String> ();
 		Scanner scr = new Scanner (System.in);
-		
-		
+
 		
 		myMap.put ("Mother", "Matka");
 		myMap.put ("Father", "Ojciec");
