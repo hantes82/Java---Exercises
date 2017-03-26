@@ -8,7 +8,7 @@ public class Main {
 	// write your code here
         Map<String, String> mapa = new HashMap<String,String>();
 
-        mapa.put("JAnek","John");
+        mapa.put("Janek","John");
         mapa.put("Grzegorz","George");
         mapa.remove("Grzegorz");
         System.out.println(mapa.get("Grzegorz"));
